@@ -8,7 +8,7 @@ This is a project I did for createing a webservice, that can extract statistics 
 <br/>
 <br/>
 **How to use?**
----
+--
 
 - First install python from https://www.python.com
 - Clone the repository using this command
