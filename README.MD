@@ -13,7 +13,7 @@ This is a project I did for createing a webservice, that can extract statistics 
 - Clone the repository using this command
 
 ```bash
-git clone ...
+git clone https://github.com/shayansaha85/JMeter2MySQL.git
 ```
 - Install the dependencies with this command
 
